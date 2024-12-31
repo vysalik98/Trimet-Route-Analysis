@@ -1,4 +1,4 @@
-# CS510_DataEng_Project
+# Trimet Route Analysis
 
 ### Project Overview
 This project is centered around TriMet, a prominent public transportation agency based in Portland, Oregon. TriMet operates an extensive network of buses, light rail, and commuter rail systems. The main objective of this project is to collect and process real-time GPS sensor data, often referred to as "breadcrumbs," from TriMet's buses. We aim to analyze movement patterns and vehicle behavior.
